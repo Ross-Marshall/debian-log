@@ -1,0 +1,9 @@
+Symptoms:
+
+Lost background pictures.
+
+books subdirectory would not mount during boot.
+
+Temp Fix:
+
+Made sdb --> sdc and sdc-->sdb in fstab
